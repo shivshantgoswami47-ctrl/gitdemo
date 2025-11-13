@@ -37,4 +37,10 @@ git pull origin main
 
 git status
 
+git commit -m "commit Massage"
 
+git push
+
+>> create a new branch 
+
+git checkout -b "branchname"
